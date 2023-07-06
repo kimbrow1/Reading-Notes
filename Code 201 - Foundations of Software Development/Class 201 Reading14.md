@@ -11,4 +11,4 @@ How does a CSS animation differ from a CSS transition? The animation property al
 # 8 simple CSS3 transitions that will wow your usersLinks to an external site.
 
 What are some benefits to using CSS transitions on websites? CSS Animations are able to give the user feedback and interact with a website that is usually static and somewhat boring. The use of transitions and hover effects are able to engage a user in using a website and keep them interested when scrolling through and navigating from page to page
-How does this topic fit in with your long-term goals? This fits in with my long term goals because it is helping me gain a deeper knowledge of css
+How does this topic fit in with your long-term goals? This fits in with my long term goals because it is helping me gain a deeper knowledge of css.
