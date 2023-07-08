@@ -36,11 +36,6 @@ What is the first step to designing a Website? The first step is figuring out wh
 What is the most important question to answer when designing a Website? Navigation, Visual Design, Content, Web Friendly, Interaction,Information Accessibility, Branding, Turn Around, Intuitiveness, Conversion.
 SemanticsLinks to an external site..
 
-Why should you use an <h1> element over a <span> element to display a top level heading? You should use a H1 tag because it gives a heading of the project from H1 to H6 with H1 being the largest and H6 being the smallest.
-What are the benefits of using semantic tags in our HTML? Semantics describe its meaning to both the browser and the develope
-What is JavaScript?Links to an external site.
 
-Describe 2 things that require JavaScript in the Browser? Mobile Apps and Video Games.
-How can you add JavaScript to an HTML document? You can add JavaScript to your site by using <Script> </Script> In the body at the bottom of the page.
  
 
