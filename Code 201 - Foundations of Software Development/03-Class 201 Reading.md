@@ -1,4 +1,5 @@
-# Learn HTMLLinks to an external site.
+# Learn HTML 
+
 OrderedLinks to an external site. and UnorderedLinks to an external site. lists.
 
 When should you use an unordered list in your HTML document? 
@@ -17,7 +18,8 @@ Describe two ways you can change the numbers on list items provided by an ordere
 
 You can change the by adding an inline type and you can change the order by adding a list type to the external css.
 
-# Learn CSSLinks to an external site.
+# Learn CSS
+
 The Box ModelLinks to an external site..
 
 Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
